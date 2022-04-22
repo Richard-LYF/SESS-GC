@@ -7,8 +7,6 @@ The architecture of the new model is as follows:
 ![image](https://user-images.githubusercontent.com/48831875/162203771-72f9fa6f-cc1b-4166-b274-3511c605c2a4.png)
 
 The Readme.md of original SESS is shown below.
-# SESS: Self-Ensembling Semi-Supervised 3D Object Detection
-
 
 ![teaser](https://github.com/Na-Z/sess/blob/master/teaser.jpg)
 
