@@ -1,5 +1,6 @@
 # Self-Ensembling Semi-Supervised 3D Object Detection with Graph-Level Consistency
-This is a term poject of CS5260 from <a href="http://www.nus.edu.sg/" target="_blank">National University of Singapore</a>
+Created by <a href="https://github.com/Richard-LYF" target="_blank">Yifan Liu</a> from 
+<a href="http://www.nus.edu.sg/" target="_blank">National University of Singapore</a>
 
 This work is an extension based on SESS. The instructions of running the code is the same as SESS's.
 
